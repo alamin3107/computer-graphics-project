@@ -1,4 +1,5 @@
 #include<iostream>
+#include<bits/stdc++.h>
 #include<graphics.h>
 using namespace std;
 void name_print();
