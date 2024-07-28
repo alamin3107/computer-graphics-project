@@ -1,4 +1,5 @@
 #include<iostream>
+#include<bits/stdc++.h>
 #include<graphics.h>
 using namespace std;
 void name_print();
@@ -12,7 +13,7 @@ int main()
     cout<< "5.MId point circle algorithm\6.Clock\n7.Programmer\n0.Exit\n";
 
 
-    while(true)
+    while(1)
     {
         cout << "\nEnter your choice: ";
         cin>> ch;
